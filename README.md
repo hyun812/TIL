@@ -7,6 +7,7 @@ Today I Learned
   - [패키지 매니저](/javascript/package-manager.md)
   - [package.json의 의존성에 대해](/javascript/package-json-dependencies.md)
   - [Iterable과 Iterator](/javascript/Iterable-and-Iterator.md)
+  - [slice()와 splice()](/javascript/slice-and-splice.md)
 
 - React
 
