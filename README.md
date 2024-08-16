@@ -8,6 +8,7 @@ Today I Learned
   - [package.json의 의존성에 대해](/javascript/package-json-dependencies.md)
   - [Iterable과 Iterator](/javascript/Iterable-and-Iterator.md)
   - [slice()와 splice()](/javascript/slice-and-splice.md)
+  - [Rest 파라미터와 스프레드 문법](/javascript/rest-and-spread.md)
 
 - React
 
