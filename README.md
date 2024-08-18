@@ -15,5 +15,9 @@ Today I Learned
 
   - [webpack과 babel로 react 프로젝트 세팅하기](/react/setting-react-project-using-webpack-and-babel.md)
 
+- Data Structure
+
+  - [Heap](/Data%20Structure/Heap.md)
+
 - Git
   - [git command](/git/git-command.md)
