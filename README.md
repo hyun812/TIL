@@ -17,7 +17,13 @@ Today I Learned
 
 - Data Structure
 
+  - [Queue](/Data%20Structure/Queue.md)
   - [Heap](/Data%20Structure/Heap.md)
+
+- Algorithm
+
+  - [이분탐색](/algorithm/binaty-search.md)
+  - [순열과 조합](/algorithm/permutation-and-combination.md)
 
 - Git
   - [git command](/git/git-command.md)
