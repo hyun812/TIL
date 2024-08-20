@@ -26,6 +26,7 @@ Today I Learned
 
   - [이분탐색](/algorithm/binaty-search.md)
   - [순열과 조합](/algorithm/permutation-and-combination.md)
+  - [유니온 파인드](/algorithm/union-find.md)
 
 - Git
   - [git command](/git/git-command.md)
