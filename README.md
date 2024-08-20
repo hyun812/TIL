@@ -15,6 +15,7 @@ Today I Learned
 
   - [webpack과 babel로 react 프로젝트 세팅하기](/react/setting-react-project-using-webpack-and-babel.md)
   - [storybook](/react/storybook.md)
+  - [React에서의 XSS 공격](/react/xss-attacks-in-react.md)
 
 - Data Structure
 
