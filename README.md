@@ -25,8 +25,9 @@ Today I Learned
 
 - Algorithm
 
-  - [이분탐색](/algorithm/binaty-search.md)
   - [순열과 조합](/algorithm/permutation-and-combination.md)
+  - [부분집합](/algorithm/powerset.md)
+  - [이분탐색](/algorithm/binaty-search.md)
   - [유니온 파인드](/algorithm/union-find.md)
   - [투포인터](/algorithm/two-pointer.md)
 
