@@ -22,6 +22,7 @@ Today I Learned
 
   - [Queue](/Data%20Structure/Queue.md)
   - [Heap](/Data%20Structure/Heap.md)
+  - [Trie](/Data%20Structure/Trie.md)
   - [Binary Search Tree](/Data%20Structure/binary-search-tree.md)
 
 - Algorithm
