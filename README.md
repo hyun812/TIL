@@ -11,6 +11,7 @@ Today I Learned
   - [slice()와 splice()](/javascript/slice-and-splice.md)
   - [Rest 파라미터와 스프레드 문법](/javascript/rest-and-spread.md)
   - [이벤트 버블링과 캡처링](/javascript/event-bubbling-and-capturing.md)
+  - [이벤트 전파와 위임](/javascript/event-propagation-and-delegation.md)
 
 - React
 
