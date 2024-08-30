@@ -5,6 +5,7 @@ Today I Learned
 - JavaScript
 
   - [브라우저 렌더링 과정](/javascript/browser-rendering.md)
+  - [Javascript 비동기와 Event Loop](/javascript/javascript-async-and-event-loop.md)
   - [패키지 매니저](/javascript/package-manager.md)
   - [package.json의 의존성에 대해](/javascript/package-json-dependencies.md)
   - [Iterable과 Iterator](/javascript/Iterable-and-Iterator.md)
