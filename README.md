@@ -26,10 +26,10 @@ Today I Learned
 
 - Data Structure
 
-  - [Queue](/Data%20Structure/Queue.md)
-  - [Heap](/Data%20Structure/Heap.md)
-  - [Trie](/Data%20Structure/Trie.md)
-  - [Binary Search Tree](/Data%20Structure/binary-search-tree.md)
+  - [Queue](/data%20structure/Queue.md)
+  - [Heap](/data%20structure/Heap.md)
+  - [Trie](/data%20structure/Trie.md)
+  - [Binary Search Tree](/data%20structure/binary-search-tree.md)
 
 - Algorithm
 
