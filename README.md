@@ -19,6 +19,7 @@ Today I Learned
   - [webpack과 babel로 react 프로젝트 세팅하기](/react/setting-react-project-using-webpack-and-babel.md)
   - [Virtual DOM과 재조정](/react/virtual-dom-and-reconciliation.md)
   - [Flux 패턴](/react/flux-pattern.md)
+  - [Promise](/javascript/promise.md)
   - [react-query의 staleTime과 gcTime](/react/staleTime-and-gcTime-in-react-query.md)
   - [storybook](/react/storybook.md)
   - [React에서의 XSS 공격](/react/xss-attacks-in-react.md)
