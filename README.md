@@ -6,6 +6,8 @@ Today I Learned
 
   - [브라우저 렌더링 과정](/javascript/browser-rendering.md)
   - [Javascript 비동기와 Event Loop](/javascript/javascript-async-and-event-loop.md)
+  - [Promise](/javascript/promise.md)
+  - [마이크로태스크 큐](/javascript/microtask-queue.md)
   - [패키지 매니저](/javascript/package-manager.md)
   - [package.json의 의존성에 대해](/javascript/package-json-dependencies.md)
   - [Iterable과 Iterator](/javascript/Iterable-and-Iterator.md)
@@ -19,8 +21,6 @@ Today I Learned
   - [webpack과 babel로 react 프로젝트 세팅하기](/react/setting-react-project-using-webpack-and-babel.md)
   - [Virtual DOM과 재조정](/react/virtual-dom-and-reconciliation.md)
   - [Flux 패턴](/react/flux-pattern.md)
-  - [Promise](/javascript/promise.md)
-  - [마이크로태스크 큐](/javascript/microtask-queue.md)
   - [react-query의 staleTime과 gcTime](/react/staleTime-and-gcTime-in-react-query.md)
   - [storybook](/react/storybook.md)
   - [React에서의 XSS 공격](/react/xss-attacks-in-react.md)
