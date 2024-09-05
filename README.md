@@ -7,6 +7,7 @@ Today I Learned
   - [브라우저 렌더링 과정](/javascript/browser-rendering.md)
   - [Javascript 비동기와 Event Loop](/javascript/javascript-async-and-event-loop.md)
   - [Promise](/javascript/promise.md)
+  - [제너레이터](/javascript/generator.md)
   - [마이크로태스크 큐](/javascript/microtask-queue.md)
   - [패키지 매니저](/javascript/package-manager.md)
   - [package.json의 의존성에 대해](/javascript/package-json-dependencies.md)
@@ -15,6 +16,8 @@ Today I Learned
   - [Rest 파라미터와 스프레드 문법](/javascript/rest-and-spread.md)
   - [이벤트 버블링과 캡처링](/javascript/event-bubbling-and-capturing.md)
   - [이벤트 전파와 위임](/javascript/event-propagation-and-delegation.md)
+
+<br/>
 
 - React
 
@@ -26,12 +29,16 @@ Today I Learned
   - [React에서의 XSS 공격](/react/xss-attacks-in-react.md)
   - [useMemo와 useCallback](/react/useMemo-and-useCallback.md)
 
+<br/>
+
 - Data Structure
 
   - [Queue](/data%20structure/Queue.md)
   - [Heap](/data%20structure/Heap.md)
   - [Trie](/data%20structure/Trie.md)
   - [Binary Search Tree](/data%20structure/binary-search-tree.md)
+
+<br/>
 
 - Algorithm
 
@@ -41,6 +48,8 @@ Today I Learned
   - [유니온 파인드](/algorithm/union-find.md)
   - [투포인터](/algorithm/two-pointer.md)
   - [플로이드 워샬](/algorithm/floyd-warshall.md)
+
+<br/>
 
 - Git
   - [git command](/git/git-command.md)
