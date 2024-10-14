@@ -37,6 +37,7 @@ Today I Learned
 
 - CSS
 
+  - [명시도](/css/css-specificity.md)
   - [마진 상쇄](/css/margin-collapsing.md)
 
 - Data Structure
