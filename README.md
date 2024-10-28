@@ -8,6 +8,7 @@ Today I Learned
   - [Javascript 비동기와 Event Loop](/javascript/javascript-async-and-event-loop.md)
   - [함수 선언문과 함수 표현식](/javascript/function-declarations-and-expressions.md)
   - [호이스팅](/javascript/hoisting.md)
+  - [실행 컨텍스트](/javascript/execution-context.md)
   - [클로저](/javascript/closure.md)
   - [this](/javascript/this.md)
   - [Promise](/javascript/promise.md)
