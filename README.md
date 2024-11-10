@@ -34,6 +34,7 @@ Today I Learned
 
 - React
 
+  - [React에서 key를 사용해야 하는 이유](/react/list-and-key.md)
   - [webpack과 babel로 react 프로젝트 세팅하기](/react/setting-react-project-using-webpack-and-babel.md)
   - [Virtual DOM과 재조정](/react/virtual-dom-and-reconciliation.md)
   - [Flux 패턴](/react/flux-pattern.md)
