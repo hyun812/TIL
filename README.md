@@ -10,6 +10,7 @@ Today I Learned
   - [호이스팅](/javascript/hoisting.md)
   - [실행 컨텍스트](/javascript/execution-context.md)
   - [클로저](/javascript/closure.md)
+  - [Web Worker](/javascript/web-worker.md)
   - [this](/javascript/this.md)
   - [Promise](/javascript/promise.md)
   - [제너레이터](/javascript/generator.md)
