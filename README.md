@@ -26,6 +26,10 @@ Today I Learned
 
 - Typescript
 
+  - [로컬 스토리지, 세션 스토리지, 쿠키](/browser/web-storage.md)
+
+- Typescript
+
   - [유틸리티 타입](/typescript/utility-types.md)
 
 - React
