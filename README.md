@@ -24,9 +24,10 @@ Today I Learned
   - [이벤트 버블링과 캡처링](/javascript/event-bubbling-and-capturing.md)
   - [이벤트 전파와 위임](/javascript/event-propagation-and-delegation.md)
 
-- Typescript
+- Browser
 
   - [로컬 스토리지, 세션 스토리지, 쿠키](/browser/web-storage.md)
+  - [Cross Origin Resource Sharing](/browser/cors.md)
 
 - Typescript
 
