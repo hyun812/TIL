@@ -29,10 +29,6 @@ Today I Learned
   - [로컬 스토리지, 세션 스토리지, 쿠키](/browser/web-storage.md)
   - [Cross Origin Resource Sharing](/browser/cors.md)
 
-- Typescript
-
-  - [유틸리티 타입](/typescript/utility-types.md)
-
 - React
 
   - [React에서 key를 사용해야 하는 이유](/react/list-and-key.md)
@@ -48,6 +44,10 @@ Today I Learned
 
   - [명시도](/css/css-specificity.md)
   - [마진 상쇄](/css/margin-collapsing.md)
+
+- Typescript
+
+  - [유틸리티 타입](/typescript/utility-types.md)
 
 - Data Structure
 
@@ -66,5 +66,10 @@ Today I Learned
   - [플로이드 워샬](/algorithm/floyd-warshall.md)
 
 - Git
+
   - [git command](/git/git-command.md)
   - [git hook](/git/git-hook.md)
+
+- etc
+
+  - [응집도와 결합도](/etc/cohesion-coupling.md)
