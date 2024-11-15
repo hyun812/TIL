@@ -12,6 +12,7 @@ Today I Learned
   - [클로저](/javascript/closure.md)
   - [Web Worker](/javascript/web-worker.md)
   - [this](/javascript/this.md)
+  - [디바운스와 쓰로틀](/javascript/debounce-throttle.md)
   - [Promise](/javascript/promise.md)
   - [제너레이터](/javascript/generator.md)
   - [package-manager](/javascript/package-manager.md)
