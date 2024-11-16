@@ -74,3 +74,4 @@ Today I Learned
 - etc
 
   - [응집도와 결합도](/etc/cohesion-coupling.md)
+  - [멱등성](/etc/idempotency.md)
