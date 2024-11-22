@@ -1,27 +1,15 @@
 ## 부분집합
 
 ```javascript
-const getSubsets = function (arr) {
-  let flag = new Array(arr.length).fill(false);
-  const subSets = [];
+function getSubsets(arr) {
+  const subsets = [[]];
 
-  const subSet = (depth) => {
-    if (depth === arr.length) {
-      const subSet = arr.filter((el, index) => flag[index]);
-      subSets.push(subSet);
-      return;
-    }
+  arr.forEach((value) => {
+    subsets.push(...subsets.map((subset) => [...subset, value]));
+  });
 
-    flag[depth] = true;
-    subSet(depth + 1);
-    flag[depth] = false;
-    subSet(depth + 1);
-  };
+  return subsets;
+}
 
-  subSet(0); // depth 0 부터 시작
-  return subSets;
-};
-const example = [1, 2, 3];
-const result = getSubsets(example);
-console.log(result);
+console.log(getSubsets([1, 2])); // [[], [1], [2], [1, 2]]
 ```
