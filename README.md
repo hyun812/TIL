@@ -59,6 +59,7 @@ Today I Learned
 
 - Algorithm
 
+  - [Deep Equals](/algorithm/deep-equals.md)
   - [순열과 조합](/algorithm/permutation-and-combination.md)
   - [부분집합](/algorithm/powerset.md)
   - [이분탐색](/algorithm/binary-search.md)
