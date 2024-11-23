@@ -38,6 +38,7 @@ Today I Learned
   - [Flux 패턴](/react/flux-pattern.md)
   - [react-query의 staleTime과 gcTime](/react/staleTime-and-gcTime-in-react-query.md)
   - [storybook](/react/storybook.md)
+  - [Strict Mode](/react/strict-mode.md)
   - [React에서의 XSS 공격](/react/xss-attacks-in-react.md)
   - [useEffect](/react/useEffect.md)
   - [useMemo와 useCallback](/react/useMemo-and-useCallback.md)
