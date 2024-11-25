@@ -37,6 +37,7 @@ Today I Learned
   - [Virtual DOM과 재조정](/react/virtual-dom-and-reconciliation.md)
   - [Flux 패턴](/react/flux-pattern.md)
   - [react-query의 staleTime과 gcTime](/react/staleTime-and-gcTime-in-react-query.md)
+  - [render phase & commit phase](/react/render-phase-and-commit-phase.md)
   - [storybook](/react/storybook.md)
   - [Strict Mode](/react/strict-mode.md)
   - [React에서의 XSS 공격](/react/xss-attacks-in-react.md)
